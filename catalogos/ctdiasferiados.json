@@ -1,0 +1,7 @@
+{"_id":{"$oid":"68b7b2b601e8667fc2336337"},"fecha":{"$date":"2025-01-01T00:00:00Z"},"descripcion":"Año Nuevo","activo":true}
+{"_id":{"$oid":"68b7b2b601e8667fc2336338"},"fecha":{"$date":"2025-02-03T00:00:00Z"},"descripcion":"Día de la Constitución (tercer lunes de febrero)","activo":true}
+{"_id":{"$oid":"68b7b2b601e8667fc2336339"},"fecha":{"$date":"2025-03-17T00:00:00Z"},"descripcion":"Natalicio de Benito Juárez (tercer lunes de marzo)","activo":true}
+{"_id":{"$oid":"68b7b2b601e8667fc233633a"},"fecha":{"$date":"2025-05-01T00:00:00Z"},"descripcion":"Día del Trabajo","activo":true}
+{"_id":{"$oid":"68b7b2b601e8667fc233633b"},"fecha":{"$date":"2025-09-16T00:00:00Z"},"descripcion":"Día de la Independencia","activo":true}
+{"_id":{"$oid":"68b7b2b601e8667fc233633c"},"fecha":{"$date":"2025-11-17T00:00:00Z"},"descripcion":"Día de la Revolución (tercer lunes de noviembre)","activo":true}
+{"_id":{"$oid":"68b7b2b601e8667fc233633d"},"fecha":{"$date":"2025-12-25T00:00:00Z"},"descripcion":"Navidad","activo":true}

@@ -1,0 +1,6 @@
+{"_id":{"$oid":"68a8ffb7a1b2543ad82a0c2b"},"clave":2,"nombre":"api-generador-yaml","descripcion":"GENERADOR YAML","urlAgente":"https://aga2.ft.apibaz.com/agent","coeId":{"$oid":"688c146341e628f54932a03e"},"estatus":true}
+{"_id":{"$oid":"68a8ffb7a1b2543ad82a0c2c"},"clave":3,"nombre":"api-validador-hut","descripcion":"VALIDADOR HUT APIS","porcentajeCumplimiento":80,"urlAgente":"https://aga2.ft.apibaz.com/agent","coeId":{"$oid":"688c146341e628f54932a03e"},"estatus":true}
+{"_id":{"$oid":"68a8ffb7a1b2543ad82a0c2d"},"clave":4,"nombre":"api-validador-yaml","descripcion":"VALIDADOR YAML","porcentajeCumplimiento":80,"urlAgente":"https://aga2.ft.apibaz.com/agent","coeId":{"$oid":"688c146341e628f54932a03e"},"estatus":true}
+{"_id":{"$oid":"68a8ffb7a1b2543ad82a0c2a"},"clave":1,"nombre":"api-generador-hut","descripcion":"GENERADOR HUT APIS","urlAgente":"https://aga2.ft.apibaz.com/agents","coeId":{"$oid":"688c146341e628f54932a03e"},"estatus":true}
+{"_id":{"$oid":"68d48f27134b639f90baa8b9"},"clave":5,"nombre":"api-generador-productos","descripcion":"GENERADOR DE PRODUCTO","coeId":{"$oid":"688c146341e628f54932a03e"},"estatus":true}
+{"_id":{"$oid":"68d5b8af87dcadfaf0baa8b9"},"clave":6,"nombre":"api-validador-productos","descripcion":"VALIDADOR DE PRODUCTO","porcentajeCumplimiento":80,"coeId":{"$oid":"688c146341e628f54932a03e"},"estatus":true}

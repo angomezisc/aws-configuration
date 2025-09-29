@@ -1,0 +1,16 @@
+{"_id":{"$oid":"68c3adbf58ca831712baa8ba"},"clave":1,"descripcion":"Configración de ambiente (ambiente)","estatus":true,"tipos":["APIS"]}
+{"_id":{"$oid":"68c3adbf58ca831712baa8bb"},"clave":2,"descripcion":"Configurar Target Server (conexión BackEnd)","estatus":true,"tipos":["APIS","BACKEND"]}
+{"_id":{"$oid":"68c3adbf58ca831712baa8bc"},"clave":3,"descripcion":"Implementación JWT (BE)","estatus":true,"tipos":["BACKEND"]}
+{"_id":{"$oid":"68c3adbf58ca831712baa8bd"},"clave":4,"descripcion":"Definir kalias y kstore al certificado DEV","estatus":true,"tipos":["APIS"]}
+{"_id":{"$oid":"68c3adbf58ca831712baa8be"},"clave":5,"descripcion":"Crear kstore y referencia en plataforma apigee DEV","estatus":true,"tipos":["APIS"]}
+{"_id":{"$oid":"68c3adbf58ca831712baa8bf"},"clave":6,"descripcion":"Configuraciones API (api)","estatus":true,"tipos":["APIS"]}
+{"_id":{"$oid":"68c3adbf58ca831712baa8c0"},"clave":7,"descripcion":"Ambientación de Integration Test y pruebas de mocks","estatus":true,"tipos":["APIS"]}
+{"_id":{"$oid":"68c3adbf58ca831712baa8c1"},"clave":8,"descripcion":"Robustecimiento features y pruebas de mocks","estatus":true,"tipos":["APIS"]}
+{"_id":{"$oid":"68c3adbf58ca831712baa8c2"},"clave":9,"descripcion":"Validar la disponibilidad del servicio BackEnd (curl)","estatus":true,"tipos":["APIS"]}
+{"_id":{"$oid":"68c3adbf58ca831712baa8c3"},"clave":10,"descripcion":"Validar conexión de backend con apigee","estatus":true,"tipos":["APIS","BACKEND"]}
+{"_id":{"$oid":"68c3adbf58ca831712baa8c4"},"clave":11,"descripcion":"Validar respuesta de recurso de Health check /status (BackEnd)","estatus":true,"tipos":["BACKEND"]}
+{"_id":{"$oid":"68c3adbf58ca831712baa8c5"},"clave":12,"descripcion":"Definición del nombrado de componentes (apps /productos)","estatus":true,"tipos":["APIS"]}
+{"_id":{"$oid":"68c3adbf58ca831712baa8c6"},"clave":13,"descripcion":"Configración de ambiente (componentes)","estatus":true,"tipos":["APIS"]}
+{"_id":{"$oid":"68c3adbf58ca831712baa8c7"},"clave":14,"descripcion":"Crear componentes (apps / productos)","estatus":true,"tipos":["APIS"]}
+{"_id":{"$oid":"68c3adbf58ca831712baa8c8"},"clave":15,"descripcion":"Generar Template de Monitoreo API","estatus":true,"tipos":["APIS"]}
+{"_id":{"$oid":"68c3adbf58ca831712baa8c9"},"clave":16,"descripcion":"Documentación de artefactos y ceremonias de seguimiento de apificación ","estatus":true,"tipos":["APIS"]}
